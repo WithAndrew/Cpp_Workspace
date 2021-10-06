@@ -1,9 +1,9 @@
 //#include <stdio.h>
 //#include <stdlib.h>
 //
-//void fun(void) 
+//void fun(void)
 //{
-//	printf ("ÎÒÊÇº¯Êý\n");
+//	printf ("æˆ‘æ˜¯å‡½æ•°\n");
 //}
 //
 //
